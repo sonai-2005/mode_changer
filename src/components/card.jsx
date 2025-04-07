@@ -5,7 +5,7 @@ export default function Card() {
         <>
         <div className="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="/">
-                <img className="p-8 rounded-t-lg" src="https://scontent.fccu31-2.fna.fbcdn.net/v/t39.30808-6/449194532_920439846508431_1785694779612184504_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CwEo5YC31-QQ7kNvgElMAH9&_nc_oc=AdnINDT6wpPWKslq-Zf-VxHip-qc31WESHM2-9k3JRNR2hDo8-vNTBq-gJfu48_lmeU&_nc_zt=23&_nc_ht=scontent.fccu31-2.fna&_nc_gid=hC3dHUKxNzEWEbVqf8QTDQ&oh=00_AYG4bzPq4GVqVEqYXOm87NVhk9N4oHgJJl35hEwQEaAOnQ&oe=67E62BF4" alt="product_image1" />
+                <img className="p-8 rounded-t-lg" src="https://www.apple.com/v/iphone/home/cb/images/meta/iphone__kqge21l9n26q_og.png" alt="product_image1" />
             </a>
             <div className="px-5 pb-5">
                 <a href="/">
